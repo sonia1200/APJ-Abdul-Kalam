@@ -1,0 +1,60 @@
+div {
+background-color: rgb(233, 191, 233);
+height: 1200px;
+width: 900px;
+position: relative; 
+ left: 150px;
+border: 7px solid navy;
+ 
+
+
+}
+#image{
+    height: 400px;
+    width: 300px;
+    background-image: url(/kalam.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    border: 2px solid white;
+    position: relative;
+    left: 60px;
+    bottom: 200px;
+    }
+h2 {
+    margin-left: 450px;
+   position: relative;
+   bottom: 0.5px;
+   top: 200px;
+   font-size: 40px;
+}
+h3 {
+    margin-left: 450px;
+   position: relative;
+   bottom:5px;
+   left: 230px;
+   top:170px ;
+   font-size: 20px;
+}
+h1 {
+    position: relative;
+    left: 60px;
+    top:500px;
+    font-size: 60px;
+}
+ p {
+     position: relative;
+    left: 60px; 
+   max-width: 800px;
+
+    
+}
+footer {
+    position: relative;
+    top: 70px;
+    left:500px;
+}
+a:hover {
+font-size: 20px;
+transition-duration: 0.5S;
+}
